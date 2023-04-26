@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(238, 219, 193);
+}
+h1{
+    padding-left: 35%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background: gray;
+    color: whitesmoke;
+}
